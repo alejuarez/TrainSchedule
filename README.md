@@ -4,11 +4,11 @@ Tain Schedule is an app that uses Firebase to host arrival and departure data. Y
 
 ### Initial screen:
 
-C:\Users\ale-j\TrainSchedule\assets\img\TrainScheduleform.PNG
+/assets/img/TrainScheduleform.PNG
 
 ### List of trains screen:
 
-C:\Users\ale-j\TrainSchedule\assets\img\TrainScheduleinitial.PNG
+/assets/img/TrainScheduleinitial.PNG
 
 ### Software used:
 
