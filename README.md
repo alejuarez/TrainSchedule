@@ -5,11 +5,11 @@ Train Schedule is an app that uses Firebase to host arrival and departure data. 
 
 ### Initial screen:
 
-assets/img/TrainScheduleform.PNG
+<img src=assets/img/TrainScheduleform.PNG>
 
 ### List of trains screen:
 
-assets/img/TrainScheduleinitial.PNG
+<img src=assets/img/TrainScheduleinitial.PNG>
 
 ### Software used:
 
